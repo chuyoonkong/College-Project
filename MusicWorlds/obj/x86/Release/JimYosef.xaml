@@ -1,0 +1,92 @@
+﻿<Page
+    x:Class="MusicWorlds.JimYosef"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MusicWorlds"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        <StackPanel BorderBrush="Green" BorderThickness="1" HorizontalAlignment="Left" Height="340" Margin="10,10,0,0" VerticalAlignment="Top" Width="100">
+            <Image Source="Assets/Musics/Jin Yosef/Logo/jinyosef.jpg" Height="85"/>
+            <Button x:ConnectionId='9' x:Name="Home" BorderBrush="White" FontFamily="Viner Hand ITC" Background="DimGray" Foreground="White" Margin="10,10" Content="Home" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Opacity="0.3" RenderTransformOrigin="0.5,0.5"                   />
+            <Button x:ConnectionId='10' x:Name="Artist" BorderBrush="White" FontFamily="Viner Hand ITC" Background="DimGray" Foreground="White" Margin="10,10" Content="Artists" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Opacity="0.3" RenderTransformOrigin="0.5,0.5"                     />
+            <Button x:ConnectionId='11' x:Name="Stop" Content="Stop" BorderBrush="White" FontFamily="Viner Hand ITC" Background="DimGray" Foreground="White" Margin="10,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Opacity="0.3" RenderTransformOrigin="0.5,0.5"                   />
+        </StackPanel>
+        <StackPanel BorderBrush="Green" BorderThickness="1" HorizontalAlignment="Left" Height="80" Margin="115,10,0,0" VerticalAlignment="Top" Width="515">
+            <TextBlock TextWrapping="Wrap" Text="Jim Yosef" Height="40" Foreground="White" TextAlignment="Center" FontFamily="Viner Hand ITC" FontSize="30"/>
+        </StackPanel>
+        <StackPanel BorderBrush="Green" BorderThickness="1" HorizontalAlignment="Left" Height="255" Margin="115,95,0,0" VerticalAlignment="Top" Width="515" RenderTransformOrigin="0.5,0.5">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="120"/>
+                    <RowDefinition Height="120"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:ConnectionId='1' x:Name="Eclipse" Grid.Row="0" Grid.Column="0" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                      >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/eclipse.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Eclipse" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='2' x:Name="Firefly" Grid.Row="0" Grid.Column="1" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                      >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/firefly.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Firefly"  Grid.Column="1" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='3' x:Name="Cant_Wait" Grid.Row="0" Grid.Column="2" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                        >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/default.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Can't Wait" Grid.Column="2" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='4' x:Name="Forces" Grid.Row="0" Grid.Column="3" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                     >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/forces.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Forces"  Grid.Column="3" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='5' x:Name="Arrow" Grid.Row="1" Grid.Column="0" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                    >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/arrow.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Arrow" Grid.Row="1" Grid.Column="0" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='6' x:Name="Canary" Grid.Row="1" Grid.Column="1" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                     >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/Canary.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Canary "  Grid.Row="1" Grid.Column="1" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='7' x:Name="Lights" Grid.Row="1" Grid.Column="2" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                     >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/lights.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Lights" Grid.Row="1" Grid.Column="2" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+
+                <Button x:ConnectionId='8' x:Name="Miracle" Grid.Row="1" Grid.Column="3" BorderBrush="White" HorizontalAlignment="Center" Width="80" Height="75" Margin="0,-40,0,0"                      >
+                    <Button.Background>
+                        <ImageBrush ImageSource="Assets/Musics/Jin Yosef/Logo/miracle.jpg"/>
+                    </Button.Background>
+                </Button>
+                <TextBlock Text="Miracle"  Grid.Row="1" Grid.Column="3" Foreground="White" Margin="0,85,0,0" TextAlignment="Center" FontFamily="Viner Hand ITC" />
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>
+

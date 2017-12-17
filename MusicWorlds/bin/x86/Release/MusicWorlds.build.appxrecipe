@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERIC</Machine>
+    <WindowsUser>Chu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>a7d38056-bfbe-44e9-9382-d765858cca8c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=BD7B51A4-3106-454F-951C-93E3900615A4</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\BadgeLogo.scale-400.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-400.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Images\wall.gif">
+      <PackagePath>Assets\Images\wall.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Logo\MusicLogo100x100.jpg">
+      <PackagePath>Assets\Logo\MusicLogo100x100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Alone.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Alone.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Fade.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Fade.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Faded.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Faded.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Force.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Force.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\Alan.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\Alan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\alone.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\alone.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\aw.png">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\aw.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\force.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\force.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\routine.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\routine.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\Singme.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\Singme.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\spectre.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\spectre.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Logo\tired.jpg">
+      <PackagePath>Assets\Musics\Alan Walker\Logo\tired.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Routine.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Routine.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Sing me to sleep.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Sing me to sleep.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Spectre.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Spectre.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Alan Walker\Tired.mp3">
+      <PackagePath>Assets\Musics\Alan Walker\Tired.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Arrow.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Arrow.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Canary.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Canary.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Cant Wait.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Cant Wait.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Eclipse.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Eclipse.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Firefly.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Firefly.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Forces.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Forces.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Lights.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Lights.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\arrow.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\arrow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\Canary.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\Canary.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\default.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\default.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\eclipse.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\eclipse.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\firefly.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\firefly.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\forces.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\forces.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\jinyosef.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\jinyosef.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\lights.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\lights.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Logo\miracle.jpg">
+      <PackagePath>Assets\Musics\Jin Yosef\Logo\miracle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Jin Yosef\Miracle.mp3">
+      <PackagePath>Assets\Musics\Jin Yosef\Miracle.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Alone.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Alone.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Keep it mello.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Keep it mello.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\aloneM.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\aloneM.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\magic.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\magic.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\Marshmello.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\Marshmello.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\mello.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\mello.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\ritual.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\ritual.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\Silence.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\Silence.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\Summer.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\Summer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\where.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\where.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Logo\wolves.jpg">
+      <PackagePath>Assets\Musics\Marshmallow\Logo\wolves.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Magic.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Magic.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Ritual.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Ritual.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Silence.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Silence.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Summer.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Summer.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Where r u now.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Where r u now.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Marshmallow\Wolves.mp3">
+      <PackagePath>Assets\Musics\Marshmallow\Wolves.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Candyland.mp3">
+      <PackagePath>Assets\Musics\Tobu\Candyland.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Cloud9.mp3">
+      <PackagePath>Assets\Musics\Tobu\Cloud9.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Higher.mp3">
+      <PackagePath>Assets\Musics\Tobu\Higher.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Hope.mp3">
+      <PackagePath>Assets\Musics\Tobu\Hope.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Infectious.mp3">
+      <PackagePath>Assets\Musics\Tobu\Infectious.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Life.mp3">
+      <PackagePath>Assets\Musics\Tobu\Life.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\candyland.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\candyland.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\cloud9.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\cloud9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\higher.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\higher.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\Hope.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\Hope.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\infectious.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\infectious.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\Life.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\Life.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\suchFun.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\suchFun.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\Sunburst.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\Sunburst.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\tobu.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\tobu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Logo\tobuPo.jpg">
+      <PackagePath>Assets\Musics\Tobu\Logo\tobuPo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\SuchFun.mp3">
+      <PackagePath>Assets\Musics\Tobu\SuchFun.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Musics\Tobu\Sunburst.mp3">
+      <PackagePath>Assets\Musics\Tobu\Sunburst.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.jpg">
+      <PackagePath>Assets\Square150x150Logo.scale-400.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-200.png">
+      <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.jpg">
+      <PackagePath>Assets\Square44x44Logo.scale-200.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-400.png">
+      <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.jpg">
+      <PackagePath>Assets\StoreLogo.scale-200.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\MusicWorlds.dll">
+      <PackagePath>MusicWorlds.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\MusicWorlds.exe">
+      <PackagePath>MusicWorlds.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\MusicWorlds.pdb">
+      <PackagePath>MusicWorlds.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Chu\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Chu\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Chu\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Chu\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Chu\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Chu\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Chu\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Chu\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Chu\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Chu\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Chu\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Chu\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

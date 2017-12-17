@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\obj\x86\Release\Upload\split.scale-400.pri"			"resources.pri"
+"C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\obj\x86\Release\PackageUploadLayout\Assets\Square71x71Logo.scale-400.png"			"Assets\Square71x71Logo.scale-400.png"
+"C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\obj\x86\Release\PackageUploadLayout\Assets\Square150x150Logo.scale-400.jpg"			"Assets\Square150x150Logo.scale-400.jpg"
+"C:\Users\Chu\Desktop\College Files\C#\MusicWorlds\MusicWorlds\obj\x86\Release\PackageUploadLayout\Assets\BadgeLogo.scale-400.jpg"			"Assets\BadgeLogo.scale-400.jpg"

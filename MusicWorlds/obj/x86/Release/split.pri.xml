@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="57014EricChu.MusicWorlds" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="AlanWalker.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/AlanWalker.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Artists.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/Artists.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="JimYosef.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/JimYosef.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Marshmello.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/Marshmello.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MusicWorlds.xr.xml" uri="ms-resource://57014EricChu.MusicWorlds/Files/MusicWorlds.xr.xml">
+				<Candidate type="Path">
+					<Value>MusicWorlds.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Tobu.xbf" uri="ms-resource://57014EricChu.MusicWorlds/Files/Tobu.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/BadgeLogo.jpg"/>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Square150x150Logo.jpg"/>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Square44x44Logo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Square71x71Logo.png"/>
+				<NamedResource name="StoreLogo.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/StoreLogo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="wall.gif" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Images/wall.gif">
+						<Candidate type="Path">
+							<Value>Assets\Images\wall.gif</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Logo">
+					<NamedResource name="MusicLogo100x100.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Logo/MusicLogo100x100.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Logo\MusicLogo100x100.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Musics">
+					<ResourceMapSubtree name="Alan Walker">
+						<NamedResource name="Alone.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Alone.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Alone.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Fade.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Fade.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Fade.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Faded.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Faded.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Faded.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Force.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Force.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Force.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Routine.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Routine.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Routine.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sing me to sleep.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Sing me to sleep.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Sing me to sleep.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Spectre.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Spectre.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Spectre.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Tired.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Tired.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Alan Walker\Tired.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="Logo">
+							<NamedResource name="Alan.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/Alan.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\Alan.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="alone.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/alone.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\alone.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="aw.png" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/aw.png">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\aw.png</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="force.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/force.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\force.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="routine.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/routine.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\routine.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Singme.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/Singme.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\Singme.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="spectre.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/spectre.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\spectre.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="tired.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Alan Walker/Logo/tired.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Alan Walker\Logo\tired.jpg</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Jin Yosef">
+						<NamedResource name="Arrow.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Arrow.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Arrow.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Canary.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Canary.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Canary.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cant Wait.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Cant Wait.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Cant Wait.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Eclipse.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Eclipse.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Eclipse.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Firefly.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Firefly.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Firefly.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Forces.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Forces.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Forces.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Lights.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Lights.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Lights.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Miracle.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Miracle.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Jin Yosef\Miracle.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="Logo">
+							<NamedResource name="arrow.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/arrow.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\arrow.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Canary.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/Canary.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\Canary.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="default.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/default.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\default.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="eclipse.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/eclipse.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\eclipse.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="firefly.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/firefly.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\firefly.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="forces.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/forces.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\forces.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="jinyosef.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/jinyosef.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\jinyosef.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="lights.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/lights.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\lights.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="miracle.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Jin Yosef/Logo/miracle.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Jin Yosef\Logo\miracle.jpg</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Marshmallow">
+						<NamedResource name="Alone.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Alone.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Alone.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Keep it mello.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Keep it mello.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Keep it mello.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Magic.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Magic.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Magic.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Ritual.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Ritual.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Ritual.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Silence.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Silence.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Silence.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Summer.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Summer.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Summer.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Where r u now.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Where r u now.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Where r u now.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Wolves.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Wolves.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Marshmallow\Wolves.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="Logo">
+							<NamedResource name="aloneM.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/aloneM.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\aloneM.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="magic.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/magic.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\magic.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Marshmello.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/Marshmello.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\Marshmello.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="mello.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/mello.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\mello.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ritual.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/ritual.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\ritual.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Silence.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/Silence.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\Silence.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Summer.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/Summer.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\Summer.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="where.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/where.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\where.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="wolves.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Marshmallow/Logo/wolves.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Marshmallow\Logo\wolves.jpg</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Tobu">
+						<NamedResource name="Candyland.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Candyland.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Candyland.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cloud9.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Cloud9.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Cloud9.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Higher.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Higher.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Higher.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hope.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Hope.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Hope.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Infectious.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Infectious.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Infectious.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Life.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Life.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Life.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SuchFun.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/SuchFun.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\SuchFun.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sunburst.mp3" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Sunburst.mp3">
+							<Candidate type="Path">
+								<Value>Assets\Musics\Tobu\Sunburst.mp3</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="Logo">
+							<NamedResource name="candyland.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/candyland.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\candyland.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="cloud9.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/cloud9.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\cloud9.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="higher.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/higher.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\higher.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Hope.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/Hope.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\Hope.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="infectious.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/infectious.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\infectious.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Life.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/Life.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\Life.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="suchFun.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/suchFun.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\suchFun.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Sunburst.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/Sunburst.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\Sunburst.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="tobu.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/tobu.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\tobu.jpg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="tobuPo.jpg" uri="ms-resource://57014EricChu.MusicWorlds/Files/Assets/Musics/Tobu/Logo/tobuPo.jpg">
+								<Candidate type="Path">
+									<Value>Assets\Musics\Tobu\Logo\tobuPo.jpg</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://57014EricChu.MusicWorlds/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://57014EricChu.MusicWorlds/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
